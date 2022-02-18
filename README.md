@@ -1,5 +1,6 @@
 Perfomed Automation Test cases for the below test scenarios in Selenium with Java Cucumber Framework
 -----------------------------------------------------------------------------------------------------
+<pre>
 1. Navigate to iPrice Malaysia (https://www.iprice.my) website and perform some automated test based on the following.
     a. Grab the list of stores in the “Find the Best Deals Online”
     b. Count the list of the stores in the “Find the Best Deals Online”
@@ -10,3 +11,4 @@ Perfomed Automation Test cases for the below test scenarios in Selenium with Jav
     b. Make sure that list of stores in "Top Stores” is redirected to their proper store url
 3. Make some automated test that is utilising BDD format. (Given, When, Then)
   a. You may reuse the test that you previously created, we just want it to be running in 
+  </pre>
